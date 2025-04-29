@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "यह एक नमूना प्रश्न 1 है?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "उत्तर1",
+        "b": "उत्तर2",
+        "c": "उत्तर3",
+        "d": "उत्तर4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "व्याख्या 1 <a href='www.google.com'>यहाँ</a>",
+        "b": "व्याख्या 2",
+        "c": "व्याख्या 2",
+        "d": "व्याख्या 2"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "शुरुआती"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "यह एक नमूना प्रश्न 2 है?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "उत्तर1",
+        "b": "उत्तर2",
+        "c": "उत्तर3",
+        "d": "उत्तर4"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "व्याख्या 1 <a href='www.google.com'>यहाँ</a>",
+        "b": "व्याख्या 2",
+        "c": "व्याख्या 2",
+        "d": "व्याख्या 2"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "शुरुआती"
     }
   ]
 }
